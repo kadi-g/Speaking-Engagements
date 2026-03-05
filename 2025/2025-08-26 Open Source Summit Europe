@@ -1,0 +1,47 @@
+# Navigating Compliance: What Developers Can learn From Driving
+Presented with Charlie Jones
+
+**The goal isn't to memorize every rule of the road - it's to become the kind of developer who drives safely by default**.
+
+## Abstract
+When driving on a highway, you have to follow the rules of the road—some apply to everyone, while others only apply to commercial drivers. 
+Open source maintainers and software publishers face a similar divide regarding regulatory compliance.
+
+While software manufacturers must meet extensive legal and security obligations, open source maintainers often assume these regulations do 
+not apply directly to them—but do they? In this talk, we’ll separate fact from fiction by breaking down what rules like the EU Cyber Resilience 
+Act require from maintainers versus software vendors.
+
+We’ll explore the limited enforceable obligations for open source projects, including secure development policies and vulnerability reporting, 
+and discuss when (if ever) these rules impact maintainers. By understanding these distinctions, open source contributors can make informed 
+decisions about risk, responsibility, and collaboration with commercial software teams—without unnecessary compliance burdens.
+
+## Key takeaways
+- Compliance is not a detour: it's the guardrails for innovation. Government regulations like Executive Order 14028 and the EU Cyber Resilience Act exist 
+because software failures now impact critical infrastructure and millions of users. Just like traffic laws keep highways moving safely, compliance
+frameworks create guardrails that allow developers to ship software safely, predictably, and at scale.
+- You don't need to follow every framework: focus on habits that matter. There are dozens of frameworks and standards like NIST Secure Software Development Framework 
+and ISO/IEC 27001, which can feel overwhelming. Instead of trying to implement everything, developers should focus on a few foundational practices: generate SBOMs, 
+scan dependencies for vulnerabilities and malware, and prevent secrets from being committed, monitor packages and dependencies over time
+- Ignoring compliance has real consequences. Just like reckless driving puts everyone on the road at risk, insecure software can ripple across the entire ecosystem.
+
+## Audience + level
+- **Primary audience:** (Developers / OSS maintainers and Contributors / Engineering leadership)
+- **Level:** (Intermediate)
+- **Prereqs:** (None)
+
+## Formats
+- **Durations available:** 30
+- **Session type:** Talk 
+- **Live demo:** No
+
+## Assets
+- **Slides:** (link to PDF in this repo, or external link)
+- **Recording** https://osseu2025.sched.com/event/25VsZ/navigating-compliance-what-developers-can-learn-from-driving-kadi-mckean-charlie-jones-reversinglabs
+
+## Tags
+`#CRA` `#compliance``#software-supply-chain` `#oss` `#opengovcon`   (etc.)
+
+## Where this has been delivered
+> Add engagement links as you deliver this talk.
+
+- 2025-08-26 — Open Source Summit Europe (Amsterdam, Netherlands) — 
