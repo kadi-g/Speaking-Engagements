@@ -1,0 +1,94 @@
+**2 talks were given at this conference**
+
+# Death by (Python) Pickle: "Betrayal ML"
+Presented with Andy Lewis (@arkansas-owasp)
+
+**What if your AI didn’t just learn Kung Fu from a pickle file — it learned betrayal too:**
+
+## Abstract
+In the original Matrix movie, Neo learned Kung Fu through an upload. Imagine if your ML could learn the same way. That's what a pickle file does for ML - "I KNOW KUNG FU"
+or whatever was in the file that was supposed to be "learned" by your ML model.
+
+What if there was a plot twist where Agent Smith tampered with the Kung Fu module so that it included a fun "bonus" lesson that "taught" Neo to call Agent Smith every 
+time he was trying to find an exit?
+
+That's what's happening in Pickle Files, and that's the setup for ML and AI.
+
+This talk will explain the threat, provide some examples, and discuss emerging detection capabilities. When it's over, you will know kung fu.
+
+## Key takeaways
+- AI models have a software supply chain problem too. ML artifacts like pickle files are not just data containers - they can introduce malware, tampering, and unexpected behavior into your AI pipeline.
+- Popular ML ecosystems are a real attack vector: trusted hubs, major libraries, and widely used packages can still be abused through poisoned models, typosquatting, and unsafe dependencies, especially
+in places developers already rely on for speed and convenience.
+- You need to test ML artifacts like you test software. Safe AI adoption requires checking for tampering, vulnerabilities, and malware, then operationalizing that through diffing, automation, and 
+repeatable validation — not blind trust in the model source.
+
+## Audience + level
+- **Primary audience:** (Developers / AppSec / Security leadership / OSS maintainers and contributors / Engineering Leadership)
+- **Level:** (Beginner)
+
+
+## Formats
+- **Durations available:** 40 minutes
+- **Session type:** Talk 
+- **Live demo:** No
+
+## Assets
+- **Slides:** (link to PDF in this repo, or external link)
+- **Recording:** (https://www.youtube.com/watch?v=cz4gs9ZKMVo)
+
+## Tags
+`#software-supply-chain` `#bestpractices` `#sbom` `#AI` `#ML` (etc.)
+
+- 2025-06-23 — Event Name (Denver, CO, USA) — 
+
+
+
+
+# Navigating Compliance: What Developers Can learn From Driving
+Presented with Charlie Jones (@charliejones3)
+
+**The goal isn't to memorize every rule of the road - it's to become the kind of developer who drives safely by default**.
+
+## Abstract
+When driving on a highway, you have to follow the rules of the road—some apply to everyone, while others only apply to commercial drivers. 
+Open source maintainers and software publishers face a similar divide regarding regulatory compliance.
+
+While software manufacturers must meet extensive legal and security obligations, open source maintainers often assume these regulations do 
+not apply directly to them—but do they? In this talk, we’ll separate fact from fiction by breaking down what rules like the EU Cyber Resilience 
+Act require from maintainers versus software vendors.
+
+We’ll explore the limited enforceable obligations for open source projects, including secure development policies and vulnerability reporting, 
+and discuss when (if ever) these rules impact maintainers. By understanding these distinctions, open source contributors can make informed 
+decisions about risk, responsibility, and collaboration with commercial software teams—without unnecessary compliance burdens.
+
+## Key takeaways
+- Compliance is not a detour: it's the guardrails for innovation. Government regulations like Executive Order 14028 and the EU Cyber Resilience Act exist 
+because software failures now impact critical infrastructure and millions of users. Just like traffic laws keep highways moving safely, compliance
+frameworks create guardrails that allow developers to ship software safely, predictably, and at scale.
+- You don't need to follow every framework: focus on habits that matter. There are dozens of frameworks and standards like NIST Secure Software Development Framework 
+and ISO/IEC 27001, which can feel overwhelming. Instead of trying to implement everything, developers should focus on a few foundational practices: generate SBOMs, 
+scan dependencies for vulnerabilities and malware, and prevent secrets from being committed, monitor packages and dependencies over time
+- Ignoring compliance has real consequences. Just like reckless driving puts everyone on the road at risk, insecure software can ripple across the entire ecosystem.
+
+## Audience + level
+- **Primary audience:** (Developers / OSS maintainers and Contributors / Engineering leadership / GRC / Compliance)
+- **Level:** (Intermediate)
+- **Prereqs:** (None)
+
+## Formats
+- **Durations available:** 30
+- **Session type:** Talk 
+- **Live demo:** No
+
+## Assets
+- **Slides:** (link to PDF in this repo, or external link)
+- **Recording** https://osseu2025.sched.com/event/25VsZ/navigating-compliance-what-developers-can-learn-from-driving-kadi-mckean-charlie-jones-reversinglabs
+
+## Tags
+`#CRA` `#compliance``#software-supply-chain` `#oss` `#opengovcon`   (etc.)
+
+## Where this has been delivered
+> Add engagement links as you deliver this talk.
+
+- 2025-06-25 — Open Source Summit North America (Denver, CO, USA) — 
