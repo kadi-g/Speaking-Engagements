@@ -1,36 +1,43 @@
-# Talk Title
+# Trailblazing: Lessons from the Oregon Trail for the Secure Software Supply Chain
 
-**One-liner:** A punchy 1–2 sentence summary of what the audience will learn.
+**One-liner:** Dysentery, snake bites, drowning—classic Oregon Trail deaths. In app dev, a zero-day breach can be just as fatal. With open source making up 90% of software, choosing the right components is key. Learn how attackers sneak in malware and discover new ways to detect threats before they take you down..
 
 ## Abstract
-Paste your full abstract here (conference-ready).
+Dysentery, snake bites, and drowning—classic ways to die in Oregon Trail. But how do you “die” in application development? Simple: a day-zero breach or cyberattack. Just one successful breach can land your organization on the front page of the news.
+
+The question is: can you prevent it?
+Yes.
+
+Today, open source components make up 90% of modern application dependencies. With the software industry’s reliance on open source, it’s critical to choose well-maintained, community-driven projects to withstand disasters like Log4j.
+
+In this session, learn how attackers embed malicious code that evades sandbox detection or masquerades as legitimate vendor software. We'll explore real-world examples, from Log4j vulnerabilities to state-sponsored malware in macOS Flutter apps, dissecting what went wrong.
+
+Discover emerging technologies that assess software risks without relying on source code, like automated static binary analysis and black-box testing. Gain actionable insights and best practices to uncover hidden threats in your software supply chain.
+
 
 ## Key takeaways
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
+- Every choice you make matters and will have downstream/upstream effects.
+- Collaboration is key: security and developers need to work together to put policy and best practices in place that support their common goals.
+- You can not eliminate risk, but you can manage it. 
 
 ## Audience + level
 - **Primary audience:** (Developers / AppSec / Security leadership / OSS maintainers)
-- **Level:** (Beginner / Intermediate / Advanced)
-- **Prereqs:** (Optional)
+- **Level:** (Beginner / Intermediate)
+- **Prereqs:** (None)
 
 ## Formats
-- **Durations available:** 20 / 30 / 45 / 60 / Workshop
-- **Session type:** Talk / Workshop / Panel / Fireside / Keynote
-- **Live demo:** Yes/No (what it includes)
+- **Durations available:**  45 minutes
+- **Session type:** Talk 
+- **Live demo:** No
+- **Recording:** N/A
 
 ## Assets
 - **Slides:** (link to PDF in this repo, or external link)
-- **Demo repo:** (link)
-- **Hands-on lab:** (link)
-- **Blog post / notes:** (link)
-- **Speaker notes:** (optional)
 
 ## Tags
-`#software-supply-chain` `#oss` `#sbom` `#purl` `#slsa` (etc.)
+`#software-supply-chain` `#oss` `#sbom` `#supply-chain-security` `#slsa` (etc.)
 
 ## Where this has been delivered
-> Add engagement links as you deliver this talk.
+> BEJUG Website: https://bejug.github.io/
 
-- YYYY-MM-DD — Event Name (City, Country) — [Engagement notes](../../engagements/YYYY/YYYY-MM-DD-event-name.md)
+- 2025-07-28 — BEJUG (Hasselt, Belgium) 
