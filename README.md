@@ -10,7 +10,7 @@ from modern supply chain threats.
 My path into software security started early with COBOL development and mainframe solutions, and I've carried that "systems thinking" into today's world of DevOps/DevSecOps and 
 software supply chain security. 
 
-I'm a long-time technical content creator and podcast host - previously host of *Wicked Good Development* and now co-hosting 10x Insights with Steve Poole. 
+I'm a long-time technical content creator and podcast host - previously host of *Wicked Good Development* and now co-hosting 10x Insights with Steve Poole. In my local area, I am a Co-Organizer of State of the Stack DC Conference.  
 
 ### **Topics I Speak On**
 * Software Supply Chain Security (SSCS) for builders (developers + AppSec)
