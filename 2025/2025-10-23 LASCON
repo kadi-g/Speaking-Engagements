@@ -8,7 +8,7 @@ Imagine curating an art gallery—you wouldn’t hang just any painting on the w
 a valuable experience for visitors. The same meticulous approach applies to software development.
 
 Curation in open source isn’t about stifling creativity; it’s about ensuring that the dependencies we bring into our applications are secure, well-maintained, and reliable. 
-As an art curator protects against forgeries and deterioration, developers must assess third-party components for vulnerabilities, licensing risks, tampering, and long-term sustainability.
+As art curators protect against forgeries and deterioration, developers must assess third-party components for vulnerabilities, licensing risks, tampering, and long-term sustainability.
 
 This talk will explore why curation is the foundation of secure software supply chains. We’ll discuss practical strategies for evaluating dependencies, maintaining a trusted 
 repository, and leveraging free tools to automate the process. By adopting a proactive curation mindset, developers can sleep better at night, knowing their applications rest
@@ -16,9 +16,9 @@ on a foundation of safe, high-quality components.
 
 
 ## Key takeaways
-- Treat dependency selection like curation: you are responsible for provenance/authenticity and long-term car - malware/tampering, vulnerabilities, licensing, and sustainability - not just "does this dependency work."
-- Assume the real is in what you didn't explicity choose: transitive dependencies and sprawling graphs obscure ownership and exposure. Maintaining a clear inventory and dependency map is foundational to finding,
-prioritizing, and fixing issues quickly.
+- Treat dependency selection like curation: you are responsible for provenance/authenticity and long-term care - malware/tampering, vulnerabilities, licensing, and sustainability - not just "does this dependency work."
+- Assume the real is in what you didn't explicitly choose: transitive dependencies and sprawling graphs obscure ownership and exposure. Maintaining a clear inventory and dependency map is foundational to finding,
+prioritizing and fixing issues quickly.
 - Operationalize readiness with repeatable workflows. Security improves when "be prepared" becomes both muscle memory: standardized intake and scanning, routine upgrade habits, and a practiced path for 
 when (not if) something breaks.
 
