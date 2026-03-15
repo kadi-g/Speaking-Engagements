@@ -1,9 +1,14 @@
-# Talk Title
+# Open Source House Party
 
-**One-liner:** A punchy 1–2 sentence summary of what the audience will learn.
+**One-liner:** Open source is like a house party—everyone’s invited. But dependency hell is that friend-of-a-friend-of-a-friend who puts a hole in the wall. One rogue package can take down your whole project. Learn how to spot and block unwanted guests before they trash your software supply chain.
 
 ## Abstract
-Paste your full abstract here (conference-ready).
+Open source software is the ultimate neighborhood party—doors open, music playing, people bringing their best dishes (or code). Projects grow fast, the energy is contagious, and everyone benefits from the collective creativity. But in every good party, there’s risk: the friend-of-a-friend-of-a-friend who slips in unnoticed, doesn’t follow the house rules, and eventually leaves you with a hole in the drywall.
+
+In the open source world, that’s dependency hell. It starts with a package you trust—but that package has its own dependencies, which have their own dependencies, and somewhere deep in that chain lurks outdated, vulnerable, or even malicious code. You didn’t invite it, you don’t know it’s there, but it’s living in your codebase rent-free. And attackers love this—because if they compromise just one small link in that long chain, they can crash your entire project.
+
+In this session, we’ll dig into the messy reality of dependency hell and its role in software supply chain security incidents. We’ll examine real-world examples where hidden or neglected dependencies became the entry point for compromise, from typosquatting attacks to maintainer account takeovers. We’ll explore why it’s not just about malicious intent—sometimes the “bad guest” is simply an abandoned project with known CVEs that no one bothered to patch.
+
 
 ## Key takeaways
 - Takeaway 1
@@ -16,9 +21,9 @@ Paste your full abstract here (conference-ready).
 - **Prereqs:** (Optional)
 
 ## Formats
-- **Durations available:** 20 / 30 / 45 / 60 / Workshop
-- **Session type:** Talk / Workshop / Panel / Fireside / Keynote
-- **Live demo:** Yes/No (what it includes)
+- **Durations available:**  60
+- **Session type:** Talk 
+- **Live demo:** nO
 
 ## Assets
 - **Slides:** (link to PDF in this repo, or external link)
@@ -33,4 +38,4 @@ Paste your full abstract here (conference-ready).
 ## Where this has been delivered
 > Add engagement links as you deliver this talk.
 
-- YYYY-MM-DD — Event Name (City, Country) — [Engagement notes](../../engagements/YYYY/YYYY-MM-DD-event-name.md)
+- 2026-04-02 — CypherCon (Milwaukee, WI, USA)
