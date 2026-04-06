@@ -11,9 +11,9 @@ In this session, we’ll dig into the messy reality of dependency hell and its r
 
 
 ## Key takeaways
-- Takeaway 1
-- Takeaway 2
-- Takeaway 3
+- Dependency maps and SBOMs make finding vulnerable packages easy
+- Keeping close to the edge of upgrades makes patching routine
+- Trust that open source communities you choose will support the libraries you rely on
 
 ## Audience + level
 - **Primary audience:** (Developers / AppSec / Security leadership / OSS maintainers)
@@ -26,7 +26,7 @@ In this session, we’ll dig into the messy reality of dependency hell and its r
 - **Live demo:** nO
 
 ## Assets
-- **Slides:** (link to PDF in this repo, or external link)
+- **Slides:** https://github.com/kadi-g/Speaking-Engagements/blob/main/2026/Open%20Source%20House%20Part%20-%20CypherCon%20April%202026.pptx-compressed.pdf 
 - **Demo repo:** (link)
 - **Hands-on lab:** (link)
 - **Blog post / notes:** (link)
